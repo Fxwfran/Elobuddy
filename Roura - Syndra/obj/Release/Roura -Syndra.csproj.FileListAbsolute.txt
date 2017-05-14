@@ -1,0 +1,11 @@
+C:\Users\Franco\Documents\Visual Studio 2017\Projects\Roura - Syndra\obj\Release\Roura -Syndra.csprojResolveAssemblyReference.cache
+C:\Users\Franco\Documents\Visual Studio 2017\Projects\Roura - Syndra\obj\Release\Corki - The daring bombardier.exe
+C:\Users\Franco\Documents\Visual Studio 2017\Projects\Roura - Syndra\bin\Release\Corki - The daring bombardier.exe.config
+C:\Users\Franco\Documents\Visual Studio 2017\Projects\Roura - Syndra\bin\Release\Corki - The daring bombardier.exe
+C:\Users\Franco\Documents\Visual Studio 2017\Projects\Roura - Syndra\bin\Release\Corki - The daring bombardier.pdb
+C:\Users\Franco\Documents\Visual Studio 2017\Projects\Roura - Syndra\bin\Release\EloBuddy.dll
+C:\Users\Franco\Documents\Visual Studio 2017\Projects\Roura - Syndra\bin\Release\EloBuddy.SDK.dll
+C:\Users\Franco\Documents\Visual Studio 2017\Projects\Roura - Syndra\bin\Release\SharpDX.dll
+C:\Users\Franco\Documents\Visual Studio 2017\Projects\Roura - Syndra\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Franco\Documents\Visual Studio 2017\Projects\Roura - Syndra\bin\Release\Newtonsoft.Json.dll
+C:\Users\Franco\Documents\Visual Studio 2017\Projects\Roura - Syndra\obj\Release\Corki - The daring bombardier.pdb
