@@ -1,0 +1,12 @@
+C:\Users\Franco\Documents\Visual Studio 2017\Projects\Roura - Twisted Fate\Roura - Twisted Fate\obj\Release\Roura - Twisted Fate.csprojResolveAssemblyReference.cache
+C:\Users\Franco\Documents\Visual Studio 2017\Projects\Roura - Twisted Fate\Roura - Twisted Fate\bin\Release\Roura - Twisted Fate.exe.config
+C:\Users\Franco\Documents\Visual Studio 2017\Projects\Roura - Twisted Fate\Roura - Twisted Fate\bin\Release\Roura - Twisted Fate.exe
+C:\Users\Franco\Documents\Visual Studio 2017\Projects\Roura - Twisted Fate\Roura - Twisted Fate\bin\Release\Roura - Twisted Fate.pdb
+C:\Users\Franco\Documents\Visual Studio 2017\Projects\Roura - Twisted Fate\Roura - Twisted Fate\bin\Release\EloBuddy.dll
+C:\Users\Franco\Documents\Visual Studio 2017\Projects\Roura - Twisted Fate\Roura - Twisted Fate\bin\Release\EloBuddy.SDK.dll
+C:\Users\Franco\Documents\Visual Studio 2017\Projects\Roura - Twisted Fate\Roura - Twisted Fate\bin\Release\SharpDX.dll
+C:\Users\Franco\Documents\Visual Studio 2017\Projects\Roura - Twisted Fate\Roura - Twisted Fate\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Franco\Documents\Visual Studio 2017\Projects\Roura - Twisted Fate\Roura - Twisted Fate\bin\Release\Newtonsoft.Json.dll
+C:\Users\Franco\Documents\Visual Studio 2017\Projects\Roura - Twisted Fate\Roura - Twisted Fate\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Franco\Documents\Visual Studio 2017\Projects\Roura - Twisted Fate\Roura - Twisted Fate\obj\Release\Roura - Twisted Fate.exe
+C:\Users\Franco\Documents\Visual Studio 2017\Projects\Roura - Twisted Fate\Roura - Twisted Fate\obj\Release\Roura - Twisted Fate.pdb
